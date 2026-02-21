@@ -59,13 +59,10 @@ I am an aspiring **Software Engineer**, passionate **AI Researcher**, and **Educ
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/faria-akter-004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faria-akter-linkedin" height="30" width="40" /></a>
-<a href="https://faria-a7.github.io/my-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="faria-akter-portfolio" height="30" width="40" /></a>
-<a href="mailto:faria1125akter@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="faria-akter-email" height="30" width="40" /></a>
-</p>
+### 📫 Let's Connect!
+- **LinkedIn:** [https://www.linkedin.com/in/faria-akter-004/]
+- **Portfolio:** [https://faria-a7.github.io/my-portfolio/]
+- **Email:** [faria1125akter@gmail.com]
 
 ⚡ **Fun Fact:** I’m a high school IT teacher by day and self learning developer by night!
 <!--
