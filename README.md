@@ -44,16 +44,18 @@ I am an aspiring **Software Engineer**, passionate **AI Researcher**, and **Educ
 
 ### 🌟 Graphical Stats and Status
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=faria-A7&show_icons=true&theme=radical&count_private=true" alt="Faria's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=faria-A7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=faria-A7&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faria-A7&theme=react-dark&area=true&hide_border=true" alt="Faria's Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faria-A7&show_icons=true&theme=radical&count_private=true" alt="Faria's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faria-A7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faria-A7&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
