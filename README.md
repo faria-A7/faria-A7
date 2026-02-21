@@ -1,4 +1,4 @@
-# Hello everyone, I'm Faria! <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/hi.gif" width="30px">
+# Hi there, I'm Faria! 👋
 
 
 ### Software and ML Engineer | Passionate AI Researcher
