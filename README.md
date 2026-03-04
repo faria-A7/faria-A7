@@ -21,12 +21,16 @@ I am an aspiring **Software & AI/ML Engineer**, passionate **CS Researcher**, an
 
 **Software Engineering & Development**
 <p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-* **Architecture:** System Design, RESTful APIs, Full-stack Workflows.
+* **Architecture:** Full-stack Development, System Design, RESTful APIs, Database Schema Design.
 
 **Current Focus** 🚀
 * **Building:** Intelligent systems at the intersection of computer vision, deep learning, and full-stack development.
@@ -36,6 +40,7 @@ I am an aspiring **Software & AI/ML Engineer**, passionate **CS Researcher**, an
 
 | Project | Domain | Description |
 | :--- | :--- | :--- |
+| **[Wellness](https://github.com/faria-A7/wellness)** | **Full-Stack Mental Healthcare System** | **Core Tech:** Next.js, Node.js, PostgreSQL | Developed a comprehensive wellness platform designed to manage patient data and healthcare workflows. Focused on high-performance server-side rendering with Next.js and robust data persistence using PostgreSQL. |
 | **[Image Alchemy](https://github.com/faria-A7/ImageAlchemy)** | **AI/ML featured Application** | AI-powered image editing using advanced Computer Vision. |
 | **[UIU FYDP Horizon](https://github.com/faria-A7/UIU-FYDP-Horizon)** | **Software** | Comprehensive management platform for project workflows. |
 | **[RAG Pipeline Bangla-English](https://github.com/faria-A7/RAG-Pipeline-Bangla-English)** | **LLM** | A basic RAG pipeline capable of understanding and responding to both English and Bengali queries. |
