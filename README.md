@@ -1,7 +1,7 @@
 # Hi there, I'm Faria! 👋
 
 
-### Software and ML Engineer | Passionate AI Researcher
+### Software and AI/ML Engineer | Passionate CS Researcher
 
 I am an aspiring **Software & AI/ML Engineer**, passionate **CS Researcher**, and **Educator**. Dedicated to building intelligent systems that are both robust and responsible. With a background in Computer Science and experience in both academic research and teaching, I thrive at the intersection of software architecture and machine learning.
 
